@@ -1,12 +1,16 @@
-## Hi there 👋
+# Marcel Robot
+Marcel is a smart, 3D-printed humanoid robot designed to assist you in various tasks, seamlessly blending robotic features with human-like interaction. 
+With advanced artificial intelligence, Marcel is crafted to integrate into your daily life, offering assistance. Moreover, its natural and intuitive communication style fosters a deeper connection with users, providing not only practical assistance but also genuine companionship. 
 
-<!--
+Marcel can be used in many fields like :
+- Assistance and caretaking
+- Education, Entertainment
+- Customer Service
+- Companionship
+- Home Security
+- Many more
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Core challenges:
+- improved human-robot interacrion
+- easy repairability and maintenance
+- low costs
